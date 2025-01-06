@@ -1,0 +1,45 @@
+###
+# These are supported funding model platforms.
+# **enabled lines only**
+###
+
+# GitHub Sponsors (GitHub native sponsorship program)
+github: robsoncombr  # https://github.com/sponsors/robsoncombr
+
+# Patreon (Monthly crowdfunding support)
+#patreon: robsoncombr  # https://www.patreon.com/robsoncombr
+
+# Open Collective (Transparent community funding)
+#open_collective: rbs  # https://opencollective.com/rbs
+
+# Ko-fi (Small donations and monthly support)
+#ko_fi: robsoncombr  # https://ko-fi.com/robsoncombr
+
+# Tidelift (Paid dependency maintenance for open-source projects)
+#tidelift: npm/rbs  # https://tidelift.com/funding/github/npm/rbs
+
+# Community Bridge (Linux Foundation project funding)
+#community_bridge: cloud-foundry  # https://funding.communitybridge.org/projects/cloud-foundry
+
+# Liberapay (Anonymous donations for open-source maintainers)
+#liberapay: robsoncombr  # https://liberapay.com/robsoncombr
+
+# IssueHunt (Funding issues in open-source projects)
+#issuehunt: robsoncombr  # https://issuehunt.io/r/robsoncombr
+
+# LFX Crowdfunding (Cloud-native & Linux Foundation projects)
+#lfx_crowdfunding: cloud-foundry  # https://lfx.linuxfoundation.org/projects/cloud-foundry
+
+# Polar (Sustainable funding for open-source)
+#polar: robsoncombr  # https://polar.sh/robsoncombr
+
+# Buy Me a Coffee (Casual donations for developers)
+#buy_me_a_coffee: robsoncombr  # https://www.buymeacoffee.com/robsoncombr
+
+# Thanks.dev (Automatically distribute funding across dependencies)
+#thanks_dev: robsoncombr  # https://thanks.dev/robsoncombr
+
+# Custom funding links
+#custom: 
+#  - "https://robson.com.br.com/donate"
+#  - "https://www.paypal.me/robsoncombr"
