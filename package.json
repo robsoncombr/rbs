@@ -1,0 +1,13 @@
+{
+  "name": "rbs",
+  "version": "0.1.0",
+  "author": "github.com/robsoncombr",
+  "private": true,
+  "license": "MIT",
+  "description": "A Life Project",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
