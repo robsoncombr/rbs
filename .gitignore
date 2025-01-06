@@ -1,0 +1,10 @@
+# folders
+**/.git
+**/dot.git/*
+
+# env
+**/.env
+
+# not
+!**/.gitkeep
+!**/dot.git/config
