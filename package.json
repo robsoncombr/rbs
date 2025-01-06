@@ -1,9 +1,9 @@
 {
   "name": "rbs",
   "version": "0.1.0",
-  "author": "@robsoncombr",
+  "author": "github.com/robsoncombr",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "description": "A Life Project",
   "keywords": [],
   "main": "index.js",
